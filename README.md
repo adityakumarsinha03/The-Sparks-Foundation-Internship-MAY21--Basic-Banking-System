@@ -1,11 +1,12 @@
-# The-Sparks-Foundation-Internship-#MAY21
-# Basic-Banking-System (TSF-Basic-Banking-System)
+# Basic-Banking-System {TSF-Basic-Banking-System}
+# For The Sparks Foundation (TSF)
 
 Sparks Foundation Internship Project : Basic Banking System A Web Application used to transfer money between multiple users. 
 
 # Stack used - 
-Front-end : HTML5, CSS3, JS 
-Back-end : PHP, PhpMyAdmin
+Front-end : HTML5, CSS3, Bootstrap and JS 
+Back-end : PHP
+Database : MySQL 
 
 Database contains two Tables- users Table & transaction Table
 
