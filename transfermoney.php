@@ -18,7 +18,7 @@
         color: white;
       }
       
-}
+
     </style>
 </head>
 
